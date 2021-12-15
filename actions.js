@@ -1,6 +1,6 @@
 // when fill-now-btn is clicked
 document.getElementById("fill-now-btn").addEventListener("click", function () {
-  var feedbackValue = document.getElementById("feedback-value").value;
+  var feedbackValue = document.getElementById("feedback-value").value || "bad";
   chrome.tabs.executeScript(
     {
       // send value to script to fill feedback
