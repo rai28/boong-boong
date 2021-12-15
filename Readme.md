@@ -3,11 +3,13 @@
 Yeah that is the name.😄
 This extension was created to fill SRM Academia Form in Boong.
 
-## Uses
-- ![Demo](https://user-images.githubusercontent.com/61109804/146222061-7096e02c-696b-4008-bacb-8c8f707c10ce.gif)
+## Use
+
+![Demo](https://user-images.githubusercontent.com/61109804/146222061-7096e02c-696b-4008-bacb-8c8f707c10ce.gif)
+
 - This extension select **bad** as default value in all subjects.
 - This extension was tested and works for the forms of 2021
-If they change id's and class names of elements then this extension might not work.
+- If they change id's and class names of elements then this extension might not work.
 
 ## Permissions
 
@@ -26,6 +28,7 @@ If they change id's and class names of elements then this extension might not wo
   - Drop the entre folder named **boong-boong** which you downloaded earlier to same page. The folder must be root folder that is it should contain all the files in itself.
   - Accept Permission and click on Add Extension
   - Now you can use the extension
+  
  ![Installation](https://user-images.githubusercontent.com/61109804/146223808-69fbfd8b-dbc1-4a09-963b-473a758a6a71.gif)
 
 ### Conclusion
