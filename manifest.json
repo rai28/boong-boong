@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "BoongBoong",
+    "version": "1.0",
+    "description": "BoongBoong is an extension to help you fill out feedback forms available on SRM Academia.",
+    "homepage_url": "https://academia.srmist.edu.in",
+    "author": "Ritesh Rai",
+    "browser_action": {
+        "default_title": "BoongBoong",
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "16": "assets/icons/icon-16.png",
+        "48": "assets/icons/icon-48.png",
+        "128": "assets/icons/icon-128.png"
+    },
+    "permissions": [
+        "tabs",
+        "http://academia.srmist.edu.in/*",
+        "https://academia.srmist.edu.in/*"
+    ]
+}

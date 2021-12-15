@@ -1,0 +1,67 @@
+html,
+body {
+  width: fit-content;
+  height: 200px;
+}
+.main-container {
+  background: #fff;
+  border: 2px solid rgb(17, 17, 17);
+  border-radius: 3px;
+  box-shadow: 0 0 3px #ccc;
+  overflow: hidden;
+  padding: 10px 50px;
+}
+.header-icon {
+  margin: 0 38% 0 40%;
+}
+h2 {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  padding-top: 0.5em;
+  padding-bottom: 0.2em;
+  border-bottom: 2px solid rgb(255, 159, 159);
+  max-width: fit-content;
+  margin: 0 auto;
+}
+.description-text {
+  font-size: 15px;
+  font-weight: normal;
+  color: rgb(58, 58, 58);
+  margin-top: 0.8em;
+}
+#feedback-value {
+  margin: 0 auto;
+  border: 2px solid rgb(17, 17, 17);
+  width: max-content;
+  height: 30px;
+  margin-bottom: 0.88em;
+}
+#fill-now-btn {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  height: 50px;
+  background: rgb(72, 128, 0);
+  color: #fff;
+  font-size: 1.2em;
+  text-align: center;
+  font-weight: normal;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+#feedback-status {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: rgb(8, 70, 0);
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+.github-link {
+  padding-bottom: 0.5em;
+  font-size: 1em;
+  font-weight: bold;
+}
