@@ -15,7 +15,6 @@
         "128": "assets/icons/icon-128.png"
     },
     "permissions": [
-        "tabs",
         "http://academia.srmist.edu.in/*",
         "https://academia.srmist.edu.in/*"
     ]
